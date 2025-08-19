@@ -32,5 +32,3 @@
 ---
 
 ⭐️ *“Engineering is not only about solving problems, but also about creating the future.”* 
-
-“Update profile README”.
