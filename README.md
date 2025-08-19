@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 - 🌍 Based in France, originally from Ecuador 🇪🇨  
-- 🎯 Focused on **embedded systems**, **IOT*, and **edge AI**  
+- 🎯 Focused on **embedded systems**, *IOT*, and **edge AI**  
 - 🔭 Currently working on: Data telemetry for a Formula Student car 
 - 🌱 Learning: AI for embedded systems, aerospace applications  
 - 🤝 Always open to collaborate on **automotive, aerospace, and communication systems projects**  
@@ -26,7 +26,7 @@
 ---
 
 ## 🌍 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/polram/)  
+- 💼 LinkedIn: https://www.linkedin.com/in/polram/  
 - ✉️ Email: polram278@gmail.com  
 
 ---
