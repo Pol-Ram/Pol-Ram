@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hello there 👋, I'm Paul Ramirez 
 
-<!--
-**Pol-Ram/Pol-Ram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ⚡ **Embedded Systems Engineer** 
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🌍 Based in France, originally from Ecuador 🇪🇨  
+- 🎯 Focused on **embedded systems**, **IOT*, and **edge AI**  
+- 🔭 Currently working on: Data telemetry for a Formula Student car 
+- 🌱 Learning: AI for embedded systems, aerospace applications  
+- 🤝 Always open to collaborate on **automotive, aerospace, and communication systems projects**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Tools
+- **Hardware & Embedded Systems**: STM32, FPGA, PIC, ESP32, Arduino  
+- **Programming**: C/C++, Python, MATLAB  
+- **Electronics & RF**: RF circuit design (ADS, LTspice), Filter design, PCB design  
+- **Communication Protocols**: CAN, Ethernet, I²C, SPI, UART  
+- **Machine Learning & AI**: Edge AI, TensorFlow Lite, PyTorch basics  
+
+---
+
+## 📈 GitHub Stats
+![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pol-Ram&show_icons=true&theme=radical)
+
+---
+
+## 🌍 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/polram/)  
+- ✉️ Email: polram278@gmail.com  
+
+---
+
+⭐️ *“Engineering is not only about solving problems, but also about creating the future.”* 
+
+“Update profile README”.
