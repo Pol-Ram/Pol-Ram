@@ -20,7 +20,7 @@
 ---
 
 ## 📈 GitHub Stats
-![Paul's Stats](https://github-readme-stats.vercel.app/api?username=Pol-Ram&show_icons=true&theme=dracula)
+[![Paul's Stat](https://github-readme-streak-stats-lime-gamma.vercel.app?user=Pol-Ram&theme=whatsapp-dark)](https://git.io/streak-stats)
 
 ---
 
