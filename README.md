@@ -4,10 +4,9 @@
 
 ## 👨‍💻 About Me
 - 🌍 Based in France, originally from Ecuador 🇪🇨  
-- 🎯 Focused on **embedded systems**, *IOT*, and **edge AI**  
+- 🎯 Focused on **embedded systems and communication protocols**  
 - 🔭 Currently working on: Data telemetry for a Formula Student car 
-- 🌱 Learning: AI for embedded systems, aerospace applications  
-- 🤝 Always open to collaborate on **automotive, aerospace, and communication systems projects**  
+- 🌱 Learning: Embedded systems for automotive applications   
 
 ---
 
