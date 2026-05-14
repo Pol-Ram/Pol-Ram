@@ -5,7 +5,7 @@
 ## 👨‍💻 About Me
 - 🌍 Based in France, originally from Ecuador 🇪🇨  
 - 🎯 Focused on **embedded systems and communication protocols**  
-- 🔭 Currently working on: Data telemetry for a Formula Student car 
+- 🏎️ Currently working on: HiL (Hardware in the Loop) at Alpine Racing 
 - 🌱 Learning: Embedded systems for automotive applications   
 
 ---
@@ -15,7 +15,7 @@
 - **Programming**: C/C++, Python, MATLAB  
 - **Electronics & RF**: RF circuit design (ADS, LTspice), Filter design, PCB design  
 - **Communication Protocols**: CAN, Ethernet, I²C, SPI, UART  
-- **Machine Learning & AI**: Edge AI, TensorFlow Lite, PyTorch basics  
+- **Machine Learning & AI**: Edge AI, TensorFlow, OpenCode
 
 ---
 
